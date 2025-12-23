@@ -44,7 +44,7 @@
 .hero{
     width: 100%;
     height: 865px;
-    background: linear-gradient(60%, #FF9D2D 40%, #FFD877);
+    background: linear-gradient(60deg, #FF9D2D 40%, #FFD877);
     border-radius: 15px;
     margin-bottom: 130px;
 }
