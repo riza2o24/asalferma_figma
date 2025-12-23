@@ -51,7 +51,7 @@
     border-radius: 35px;
     margin-bottom: 130px;
     position: relative;
-    padding: 150px;
+    padding: 100px 200px ;
 }
 
 .hero__img{
@@ -63,6 +63,30 @@
 .boxs{
     display: flex;
     justify-content: space-between;
+}
+
+.boxs__text--text{
+    font-size: 100px;
+    font-weight: 700;
+    margin-bottom: 35px;
+}
+
+.boxs__text--text2{
+    font-size: 100px;
+    font-weight: 700;
+    margin-bottom: 35px;
+    margin-left: 100px;
+}
+
+.boxs__text--box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.boxs__text--text3{
+    font-size: 100px;
+    font-weight: 700;
 }
 
 
