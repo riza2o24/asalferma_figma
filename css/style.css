@@ -56,3 +56,8 @@
     left: 0;
     margin-top: 30px;
 }
+
+.boxs{
+    display: flex;
+    justify-content: space-between;
+}
