@@ -104,7 +104,7 @@
     background-color: black;
     color: white;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 500;
     border-radius: 6px;
 }
 
@@ -116,5 +116,6 @@
     font-size: 18px;
     font-weight: 700;
     border-radius: 6px;
+    box-sizing: content-box;
 }
 
