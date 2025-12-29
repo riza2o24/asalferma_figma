@@ -121,6 +121,9 @@
 
 /* box */
 .box__text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 45px;
     font-weight: 700;
     margin-bottom: 80px;
@@ -131,5 +134,5 @@
     align-items: center;
     justify-content: center;
     gap: 250px;
-    margin-bottom: 190px;
+    margin-bottom: 90px;
 }
