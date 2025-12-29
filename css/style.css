@@ -117,3 +117,19 @@
     font-weight: 700;
     border-radius: 6px;
 }
+
+
+/* box */
+.box__text{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 80px;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 250px;
+    margin-bottom: 190px;
+}
