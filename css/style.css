@@ -134,5 +134,26 @@
     align-items: center;
     justify-content: center;
     gap: 250px;
-    margin-bottom: 90px;
+    margin-bottom: 190px;
+}
+
+
+/* box ! */
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.box__boks{
+    width: 580px;
+    height: 555px;
+    background-color: #F4F4F4;
+    border-radius: 50px;
+    border: 6px solid #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(40deg);
 }
