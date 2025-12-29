@@ -13,7 +13,7 @@
 
 .conteiner{
     width: 100%;
-    max-width: 1920px;
+    max-width: 1600px;
     margin: auto;
     padding: 0 70px;
 }
@@ -163,6 +163,12 @@
 }
 
 
+.box__boks--images{
+    position: absolute;
+    
+}
+
+
 .box__texts--text{
     width: 548px;
     font-size: 45px;
@@ -184,6 +190,13 @@
     font-weight: 700;
     background-color: #FF9D2D;
     border: none;
+    color: #F4F4F4;
+    border: 3px solid #FF9D2D;
 }
 
-.
+.box__texts--btn:hover{
+    color: #FF9D2D;
+    background: white;
+    border: 3px solid #FF9D2D;
+}
+
