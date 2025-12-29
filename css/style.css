@@ -165,7 +165,7 @@
 
 .box__boks--images{
     position: absolute;
-    
+    transform: rotate(10deg);
 }
 
 
