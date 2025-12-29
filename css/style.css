@@ -171,8 +171,19 @@
 }
 
 .box__texts--paragrf{
+    width: 540px;
     color: #000000;
     font-size: 24px;
     font-weight: 500;
     margin-bottom: 50px;
 }
+
+.box__texts--btn{
+    padding: 18px 40px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #FF9D2D;
+    border: none;
+}
+
+.
