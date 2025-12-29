@@ -134,7 +134,7 @@
     align-items: center;
     justify-content: center;
     gap: 250px;
-    margin-bottom: 190px;
+    margin-bottom: 230px;
 }
 
 
@@ -143,14 +143,14 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 
 .box__boks{
     width: 580px;
     height: 555px;
     background-color: #F4F4F4;
-    border-radius: 50px;
+    border-radius: 100px;
     border: 6px solid #ffffff;
     display: flex;
     align-items: center;
@@ -165,7 +165,7 @@
 
 .box__boks--images{
     position: absolute;
-    transform: rotate(10deg);
+    transform: rotate(8deg);
 }
 
 
