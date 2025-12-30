@@ -200,3 +200,8 @@
     border: 3px solid #FF9D2D;
 }
 
+.box__boks--imagess{
+    position: absolute;
+    z-index: -1;
+    margin-left: 500px;
+}
