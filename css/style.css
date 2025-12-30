@@ -203,5 +203,6 @@
 .box__boks--imagess{
     position: absolute;
     z-index: -1;
-    margin-left: 500px;
+    margin-left: 800px;
+    transform: rotate();
 }
