@@ -204,5 +204,6 @@
     position: absolute;
     z-index: -1;
     margin-left: 760px;
-    transform: rotate(8deg);
+    transform: rotate(8deg); 
+    quotes: 1;
 }
